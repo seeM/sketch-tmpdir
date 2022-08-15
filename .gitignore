@@ -145,3 +145,5 @@ checklink/cookies.txt
 # Quarto installer
 .deb
 .pkg
+
+.quarto

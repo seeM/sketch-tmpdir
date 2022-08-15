@@ -32,4 +32,8 @@ d = { 'settings': { 'allowed_cell_metadata_keys': '',
                 'tst_flags': 'notest',
                 'user': 'seeM',
                 'version': '0.0.1'},
-  'syms': {'sketch_tmpdir.core': {'sketch_tmpdir.core.foo': 'https://seeM.github.io/sketch_tmpdir.core.html#foo'}}}
+  'syms': { 'sketch_tmpdir.core': { 'sketch_tmpdir.core.TmpDir': 'https://seeM.github.io/sketch_tmpdir.core.html#tmpdir',
+                                    'sketch_tmpdir.core.TmpDir.close': 'https://seeM.github.io/sketch_tmpdir.core.html#tmpdir.close',
+                                    'sketch_tmpdir.core.TmpDir.dir': 'https://seeM.github.io/sketch_tmpdir.core.html#tmpdir.dir',
+                                    'sketch_tmpdir.core.TmpDir.new': 'https://seeM.github.io/sketch_tmpdir.core.html#tmpdir.new',
+                                    'sketch_tmpdir.core.tmpdir': 'https://seeM.github.io/sketch_tmpdir.core.html#tmpdir'}}}
