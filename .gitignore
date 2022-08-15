@@ -147,3 +147,5 @@ checklink/cookies.txt
 .pkg
 
 .quarto
+
+/.quarto/
